@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intern DCR</string>
+    <string name="df">00</string>
+    <string name="submit">Submit</string>
+    <string name="h1">Product Group</string>
+    <string name="h2">Literature</string>
+    <string name="h3">Physician Sample</string>
+    <string name="h4">Gift</string>
+    <string name="h5">Accompanied with</string>
+    <string name="h6">remarks</string>
+
+</resources>
